@@ -4,7 +4,7 @@
 - 🤒 I'm currently resting
 - 🌱 I'm currently learning something 🤣
 - 🥅 2020 Goals: I will learn ASP.Net Core
-- ⚡ Fun fact: I love to walking in the room and love imagine
+- ⚡ Fun fact: I love to walking in the room and imagine
 
 ### Connect with me:
 
