@@ -1,11 +1,10 @@
-### Hi there, I'm Jesse - akans [codeSTACKr][website] 👋
+### Hi there, I'm Ahmet Tarık DUYAR [Atduyar][website] 👋
 
-## I'm a Husband, Father, Developer, and Teacher!
-- 🔭 I’m currently working on a [VS Code Course][website]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+## I'm a Student!
+- 🤒 I'm currently resting
+- 🌱 I'm currently learning something 🤣
+- 🥅 2020 Goals: I will learn ASP.Net Core
+- ⚡ Fun fact: I love to walking in the room and love imagine
 
 ### Connect with me:
 
@@ -17,7 +16,10 @@
 
 <br />
 
-### Languages and Tools:
+### My work:
+
+[<img align="left" alt="My first flutter project" width="26px" src="http://www.atduyar.com/ckdepi/icons/Icon-512.png" />][ckdepi]
+
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
@@ -65,12 +67,17 @@
 
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
 
-[website]: https://codeSTACKr.com
-[twitter]: https://twitter.com/codeSTACKr
-[youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
+[website]: http://www.atduyar.com/wp/
+[twitter]: https://twitter.com/atduyar
+[youtube]: https://www.youtube.com/channel/UCC_A8qsGhbQYuCYqS82cgTA
+[instagram]: https://www.instagram.com/atduyar/
+[linkedin]: https://www.linkedin.com/in/ahmet-tar%C4%B1k-duyar-106051137/
+
+[ckdepi]: http://www.atduyar.com/ckdepi/index.html#/
+
+
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
 [reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+
