@@ -1,4 +1,4 @@
-### Hi there, I'm Jesse - akan [codeSTACKr][website] 👋
+### Hi there, I'm Jesse - akans [codeSTACKr][website] 👋
 
 ## I'm a Husband, Father, Developer, and Teacher!
 - 🔭 I’m currently working on a [VS Code Course][website]!
