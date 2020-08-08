@@ -26,7 +26,7 @@
 
 ---
 
-<img align="left" alt="Atduyar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Atduyar&show_icons=true&hide_border=true&theme=radical" />
+<img align="left" alt="Atduyar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Atduyar&show_icons=true&hide_border=true&theme=algolia" />
 
 [website]: http://www.atduyar.com/wp/
 [twitter]: https://twitter.com/atduyar
