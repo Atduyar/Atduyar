@@ -27,9 +27,7 @@
 
 ---
 
-<br />
 <a href="https://www.buymeacoffee.com/Atduyar" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/arial-orange.png" alt="Buy Me A Coffee" height="51px" style="height: 51px !important;width: 217px !important;;" ></a>
-<br />
 
 ---
 
