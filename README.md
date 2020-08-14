@@ -24,8 +24,13 @@
 
 <br />
 <br />
+
 ---
-<a href="https://www.buymeacoffee.com/Atduyar" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/arial-orange.png" alt="Buy Me A Coffee" style="height: 51px !important;width: 217px !important;" ></a>
+
+<br />
+<a href="https://www.buymeacoffee.com/Atduyar" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/arial-orange.png" alt="Buy Me A Coffee" style="height: 25px !important;width: 108px !important;" ></a>
+<br />
+
 ---
 
 <img align="left" alt="Atduyar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Atduyar&show_icons=true&hide_border=true&theme=algolia" />
