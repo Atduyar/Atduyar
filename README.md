@@ -23,7 +23,6 @@
 [<img align="left" alt="Giftnator" width="26px" src="http://www.gstatic.com/android/market_images/web/favicon_v2.ico" />][playstore]
 
 <br />
-<br />
 
 <!-- ---
 
