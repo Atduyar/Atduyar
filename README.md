@@ -17,7 +17,6 @@
 
 ### My work:
 
-[<img align="left" alt="My first flutter project" width="26px" src="http://www.atduyar.com/ckdepi/icons/Icon-512.png" />][ckdepi]
 [<img align="left" alt="Giftnator" width="26px" src="https://pics.clipartpng.com/Gift_Box_in_Red_PNG_Clipart-276.png" />][giftnator]
 [<img align="left" alt="Playstore" width="26px" src="http://www.gstatic.com/android/market_images/web/favicon_v2.ico" />][playstore]
 [<img align="left" alt="Evrenomi" width="26px" src="https://evrenomi.com/favicon.ico" />][evrenomi]
