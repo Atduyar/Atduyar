@@ -40,5 +40,4 @@
 
 [ckdepi]: http://www.atduyar.com/ckdepi/index.html#/
 [giftnator]: http://www.atduyar.com/giftnator/
-[playstore]: https://play.google.com/store/search?q=pub%3ANothingness&c=apps&gl=TR
-
+[playstore]: https://play.google.com/store/search?q=pub%3AEvrenomi&c=apps&gl=TR
