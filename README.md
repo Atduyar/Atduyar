@@ -28,8 +28,12 @@
 <a href="https://www.buymeacoffee.com/Atduyar" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/arial-orange.png" alt="Buy Me A Coffee" height="51px" style="height: 51px !important;width: 217px !important;;" ></a> -->
 
 ---
-
-<img align="left" alt="Atduyar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Atduyar&show_icons=true&hide_border=true&theme=algolia" />
+<p align="center"> 
+  <a href="https://github.com/Atduyar">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Atduyar&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Atduyar&layout=compact&langs_count=8&theme=algolia"/>
+  </a> 
+</p>
 
 [website]: https://atduyar.com
 [twitter]: https://twitter.com/atduyar
