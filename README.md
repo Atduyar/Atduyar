@@ -32,7 +32,7 @@
 
 <img align="left" alt="Atduyar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Atduyar&show_icons=true&hide_border=true&theme=algolia" />
 
-[website]: http://www.atduyar.com/wp/
+[website]: https://atduyar.com
 [twitter]: https://twitter.com/atduyar
 [youtube]: https://www.youtube.com/channel/UCC_A8qsGhbQYuCYqS82cgTA
 [instagram]: https://www.instagram.com/atduyar/
