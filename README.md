@@ -1,10 +1,9 @@
 ### Hi there, I'm Ahmet Tarık DUYAR [Atduyar][website] 👋
 
 ## I'm a Student!
-- 🤔 I am currently learning OpenCV
+- 🤔 I am currently learning C++
 - 🌱 I'm currently learning something 🤣
-- 🥅 2020 Goals: I will learn ASP.Net Core
-- ⚡ Fun fact: I love to walking in the room and imagine
+- 🥅 2021 Goals: I will learn Qt
 
 ### Connect with me:
 
