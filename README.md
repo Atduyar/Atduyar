@@ -1,8 +1,7 @@
 ### Hi there, I'm Ahmet Tarık DUYAR [Atduyar][website] 👋
 
 ## I'm a Student!
-- 🤔 I am currently learning Lua
-- 🌱 I'm currently learning something 🤣
+- 🤔 I am currently learning Lua for my game engine
 
 ### Connect with me:
 
