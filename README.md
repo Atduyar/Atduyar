@@ -1,9 +1,8 @@
 ### Hi there, I'm Ahmet Tarık DUYAR [Atduyar][website] 👋
 
 ## I'm a Student!
-- 🤔 I am currently learning C++
+- 🤔 I am currently learning Lua
 - 🌱 I'm currently learning something 🤣
-- 🥅 2021 Goals: I will learn Qt
 
 ### Connect with me:
 
