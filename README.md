@@ -18,7 +18,7 @@
 
 [<img align="left" alt="Giftnator" width="26px" src="https://pics.clipartpng.com/Gift_Box_in_Red_PNG_Clipart-276.png" />][giftnator]
 [<img align="left" alt="Playstore" width="26px" src="http://www.gstatic.com/android/market_images/web/favicon_v2.ico" />][playstore]
-[<img align="left" alt="Evrenomi" width="26px" src="http://evrenomi.com/favicon.ico" />][evrenomi]
+<!-- [<img align="left" alt="Evrenomi" width="26px" src="http://evrenomi.com/favicon.ico" />][evrenomi]-->
 
 <br />
 
